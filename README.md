@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZFignick
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Computer Science, concentrating in cybersecurity
+- 🌱 I’ve complete a degree in Computer Science, concentrating in cybersecurity
 - 💞️ I’m looking to collaborate on projects to facilitate growth
 - 📫 How to reach me zfiguenick@gmail.com
 
